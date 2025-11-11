@@ -134,4 +134,9 @@ dev-games/
 
 ## 📸 Screenshots
 
+![alt text](public/image.png)
+![alt text](public/image2.png)
+![alt text](public/image3.png)
+![alt text](public/image4.png)
+
 📅 Projeto criado para estudos e prática pessoal
